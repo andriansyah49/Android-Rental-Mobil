@@ -1,0 +1,4 @@
+#Sun Apr 15 07:38:44 ICT 2018
+base.0=C\:\\Users\\Rahmat Hidayat\\Documents\\RentallMobil\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rahmat Hidayat\\Documents\\RentallMobil\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
